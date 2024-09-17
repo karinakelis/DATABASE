@@ -1,0 +1,4 @@
+CREATE TABLE users(
+	id SERIAL PRIAMARY KEY,
+	name VARCHAR(100)
+);
